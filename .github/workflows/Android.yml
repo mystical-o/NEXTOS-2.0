@@ -10,7 +10,7 @@
     # Alias of the key
     key-alias: 
     # Password of the key
-    key-password: 
+    key-password: Oof
     # The Java version to set up
     java-version: # optional
     # The arguments passed to Gradle
