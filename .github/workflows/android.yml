@@ -9,7 +9,7 @@ jobs:
   Gradle:
     runs-on: ubuntu-latest
     steps:
-    - name: checkout code
+    - name: checkout gradlew
       uses: actions/checkout@v2
     - name: setup jdk
       uses: actions/setup-java@v1
